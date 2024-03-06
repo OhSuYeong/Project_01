@@ -869,15 +869,18 @@ Templates에서 Template OS Linux by Zabbix agent로 선택 → ADD
 
 Configuration-Hosts에 들어가서 각 노드 별로 ZBX 초록불 확인
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/1d1f5e17-6d94-451c-9271-c698ee060384/a40d554c-e850-4b1b-8472-0f1b1fed73cb/Untitled.png)
+![Untitled](https://github.com/OhSuYeong/Project_01/assets/101083171/d503506c-7c15-44cb-afa5-bb1c0f0cb378)
+
 
 ## <Zabbix 동작 모습>
 
-![1.PNG](https://prod-files-secure.s3.us-west-2.amazonaws.com/1d1f5e17-6d94-451c-9271-c698ee060384/22d3f713-c91a-486f-a2ba-00c8a20e8b7d/1.png)
+![1](https://github.com/OhSuYeong/Project_01/assets/101083171/fa0f14bb-f4bf-44b1-bcd0-7bcf2ebfe50d)
+
 
 위는 대쉬보드
 
-![2.PNG](https://prod-files-secure.s3.us-west-2.amazonaws.com/1d1f5e17-6d94-451c-9271-c698ee060384/a6aa1f61-ecd7-42e9-8c77-711993f244f5/2.png)
+![2 PNG](https://github.com/OhSuYeong/Project_01/assets/101083171/92c37a17-23fc-4a18-baaa-ca46e5ff4abf)
+
 
 위는 각 노드 별로 CPU 사용량 체크
 
@@ -1277,4 +1280,5 @@ grafana로 돌아와 + > Import 를 눌러 복사한 url을 넣고 load
 zabbix - zabbix를 선택해준 후 Import
 
 <Grafana DashBoard 화면>
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/1d1f5e17-6d94-451c-9271-c698ee060384/a596ed64-551f-4824-97ff-5adcc9cae340/Untitled.png)
+
+![3](https://github.com/OhSuYeong/Project_01/assets/101083171/063e3a67-2fcc-4164-a97b-23716196f6e5)
