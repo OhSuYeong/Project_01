@@ -54,7 +54,8 @@
 
 ## 클라우드 아키텍처
 
-![아키텍처_240108_144448_2.jpg](https://prod-files-secure.s3.us-west-2.amazonaws.com/1d1f5e17-6d94-451c-9271-c698ee060384/b021d825-6f90-4b94-a665-3e1d98f9da1a/%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98_240108_144448_2.jpg)
+![아키텍처_240108_144448_2](https://github.com/OhSuYeong/Project_01/assets/101083171/e4eee842-b0c4-4e75-8644-06b16ffa04b0)
+
 
 ---
 
